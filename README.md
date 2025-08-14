@@ -40,6 +40,10 @@ You can try the live app here: [Streamlit Cloud Demo](#)
 
 pip install -r requirements.txt
 
+## Run the app
+
+python -m streamlit run app.py
+
 ---
 
 ## 📂 Installation
@@ -49,8 +53,5 @@ pip install -r requirements.txt
 git clone https://github.com/PradeepPradeep1234/Chronic-Kidney-Disease-Prediction-Web-App-Streamlit.git
 cd Chronic-Kidney-Disease-Prediction-Web-App-Streamlit
 
----
 
-## Run the app
 
-streamlit run streamlit_app.py
