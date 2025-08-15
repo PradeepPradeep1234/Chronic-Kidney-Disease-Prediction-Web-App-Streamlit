@@ -6,8 +6,8 @@ Upload your dataset to perform data cleaning, exploratory data analysis (EDA), t
 ---
 
 ## 🔗 Live Demo
-You can try the live app here: [Streamlit Cloud Demo](#)  
-*(Replace `#` with your deployed Streamlit URL)*
+You can try the live app here: [Live Demo](https://chronic-kidney-disease-prediction-1.streamlit.app/)  
+
 
 ---
 
